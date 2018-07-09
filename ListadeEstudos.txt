@@ -1,5 +1,5 @@
 GitHub
-PMP professional management professional
+PMP
 SVN controle de versão
 C#
 PHP
