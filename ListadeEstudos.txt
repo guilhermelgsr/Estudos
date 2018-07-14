@@ -1,6 +1,6 @@
 GitHub
 PMP
-SVN controle de vers„o
+SVN controle de vers√£o
 C#
 PHP
 Swift
@@ -9,8 +9,15 @@ C#
 C++
 .Net
 BI
-Oracle
+Oracle Database
 SAP
 Microsoft SharePoint
 Cobol
 visual studio
+JavaScript e CSS
+Java EE
+JPA, Spring, JSF, Rich Faces, JBoss
+web crawler
+Python
+Selenium
+Scrum
