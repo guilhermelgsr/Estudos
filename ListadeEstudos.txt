@@ -22,3 +22,7 @@ Python
 Selenium
 Scrum
 UML
+Objective-C
+JSON/XML
+ CoreData, Sqlite, Gradle e Firebase
+ 
